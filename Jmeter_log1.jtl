@@ -1,0 +1,27 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1612879283714,577,Proxy_test_Services_QuoteRequest,200,OK,Proxy_test_Services_QuoteRequest-ThreadStarter 2-1,text,true,,5182,1073,1,4,https://staging.test.com/test-service/services,577,0,231
+1612879283754,1061,Proxy_WS_PolicyRequest_QuoteRequest,200,OK,Proxy_WS_PolicyRequest_QuoteRequest-ThreadStarter 3-1,text,true,,5462,1906,1,4,https://staging.test.com/ws/policyrequest,1061,0,189
+1612879290822,832,Proxy_WS_PolicyRequest_QuoteRequest,200,OK,Proxy_WS_PolicyRequest_QuoteRequest-ThreadStarter 3-1,text,true,,5462,1906,1,4,https://staging.test.com/ws/policyrequest,831,0,17
+1612879297671,931,Proxy_WS_PolicyRequest_QuoteRequest,200,OK,Proxy_WS_PolicyRequest_QuoteRequest-ThreadStarter 3-1,text,true,,5462,1906,1,4,https://staging.test.com/ws/policyrequest,931,0,11
+1612879283699,60257,Direct_test_Services_QuoteRequest,504,Gateway Time-out,Direct_test_Services_QuoteRequest-ThreadStarter 1-1,text,false,,292,1094,1,4,http://wsi-qa-cluster.aw1dq.test.com/test-service/services,60257,0,219
+1612879283753,60272,Internal_Quote_Travel,504,Gateway Timeout,Internal_Quote_Travel-ThreadStarter 4-1,text,false,,720,550,1,4,https://staging.test.com/test-service/internal/quote/travel,60272,0,188
+1612879290306,60065,Proxy_test_Services_QuoteRequest,504,Gateway Timeout,Proxy_test_Services_QuoteRequest-ThreadStarter 2-1,text,false,,720,1073,1,4,https://staging.test.com/test-service/services,60065,0,19
+1612879349961,458,Direct_test_Services_QuoteRequest,200,OK,Direct_test_Services_QuoteRequest-ThreadStarter 1-1,text,true,,4753,1094,1,4,http://wsi-qa-cluster.aw1dq.test.com/test-service/services,458,0,137
+1612879350033,922,Internal_Quote_Travel,200,OK,Internal_Quote_Travel-ThreadStarter 4-1,text,true,,7925,550,1,4,https://staging.test.com/test-service/internal/quote/travel,922,0,17
+1612879356381,356,Proxy_test_Services_QuoteRequest,200,OK,Proxy_test_Services_QuoteRequest-ThreadStarter 2-1,text,true,,5182,1073,1,4,https://staging.test.com/test-service/services,356,0,12
+1612879356423,363,Direct_test_Services_QuoteRequest,200,OK,Direct_test_Services_QuoteRequest-ThreadStarter 1-1,text,true,,4753,1094,1,4,http://wsi-qa-cluster.aw1dq.test.com/test-service/services,363,0,35
+1612879356963,739,Internal_Quote_Travel,200,OK,Internal_Quote_Travel-ThreadStarter 4-1,text,true,,7839,550,1,4,https://staging.test.com/test-service/internal/quote/travel,736,0,10
+1612879362741,316,Proxy_test_Services_QuoteRequest,200,OK,Proxy_test_Services_QuoteRequest-ThreadStarter 2-1,text,true,,5182,1073,1,4,https://staging.test.com/test-service/services,316,0,12
+1612879362800,343,Direct_test_Services_QuoteRequest,200,OK,Direct_test_Services_QuoteRequest-ThreadStarter 1-1,text,true,,4753,1094,1,4,http://wsi-qa-cluster.aw1dq.test.com/test-service/services,343,0,36
+1612879363730,850,Internal_Quote_Travel,200,OK,Internal_Quote_Travel-ThreadStarter 4-1,text,true,,7839,550,1,4,https://staging.test.com/test-service/internal/quote/travel,850,0,16
+1612879304606,60666,Proxy_WS_PolicyRequest_QuoteRequest,200,OK,Proxy_WS_PolicyRequest_QuoteRequest-ThreadStarter 3-1,text,true,,720,1906,1,4,https://staging.test.com/ws/policyrequest,60666,0,25
+1612879369060,372,Proxy_test_Services_QuoteRequest,200,OK,Proxy_test_Services_QuoteRequest-ThreadStarter 2-1,text,true,,5182,1073,1,4,https://staging.test.com/test-service/services,372,0,16
+1612879369145,359,Direct_test_Services_QuoteRequest,200,OK,Direct_test_Services_QuoteRequest-ThreadStarter 1-1,text,true,,4753,1094,1,4,http://wsi-qa-cluster.aw1dq.test.com/test-service/services,359,0,36
+1612879370583,758,Internal_Quote_Travel,200,OK,Internal_Quote_Travel-ThreadStarter 4-1,text,true,,7839,550,1,4,https://staging.test.com/test-service/internal/quote/travel,758,0,10
+1612879371278,825,Proxy_WS_PolicyRequest_QuoteRequest,200,OK,Proxy_WS_PolicyRequest_QuoteRequest-ThreadStarter 3-1,text,true,,5462,1906,1,4,https://staging.test.com/ws/policyrequest,825,0,23
+1612879377344,749,Internal_Quote_Travel,200,OK,Internal_Quote_Travel-ThreadStarter 4-1,text,true,,7925,550,1,4,https://staging.test.com/test-service/internal/quote/travel,748,0,12
+1612879378105,781,Proxy_WS_PolicyRequest_QuoteRequest,200,OK,Proxy_WS_PolicyRequest_QuoteRequest-ThreadStarter 3-1,text,true,,5462,1906,1,4,https://staging.test.com/ws/policyrequest,781,0,10
+1612879384893,31267,Proxy_WS_PolicyRequest_QuoteRequest,200,OK,Proxy_WS_PolicyRequest_QuoteRequest-ThreadStarter 3-1,text,true,,5462,1906,1,4,https://staging.test.com/ws/policyrequest,31267,0,19
+1612879375509,40816,Direct_test_Services_QuoteRequest,200,OK,Direct_test_Services_QuoteRequest-ThreadStarter 1-1,text,true,,4753,1094,1,3,http://wsi-qa-cluster.aw1dq.test.com/test-service/services,40816,0,36
+1612879375436,60069,Proxy_test_Services_QuoteRequest,504,Gateway Timeout,Proxy_test_Services_QuoteRequest-ThreadStarter 2-1,text,false,,720,1073,1,2,https://staging.test.com/test-service/services,60069,0,20
+1612879384096,60080,Internal_Quote_Travel,504,Gateway Timeout,Internal_Quote_Travel-ThreadStarter 4-1,text,false,,720,550,1,1,https://staging.test.com/test-service/internal/quote/travel,60080,0,33

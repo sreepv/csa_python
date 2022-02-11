@@ -1,0 +1,22 @@
+2022-02-11 10:17:37,856 root - DEBUG :: 2021-02-09 06:01:23,Proxy_test_Services_QuoteRequest,200,OK 
+2022-02-11 10:17:37,856 root - DEBUG :: 2021-02-09 06:01:23,Proxy_WS_PolicyRequest_QuoteRequest,200,OK 
+2022-02-11 10:17:37,857 root - DEBUG :: 2021-02-09 06:01:30,Proxy_WS_PolicyRequest_QuoteRequest,200,OK 
+2022-02-11 10:17:37,857 root - DEBUG :: 2021-02-09 06:01:37,Proxy_WS_PolicyRequest_QuoteRequest,200,OK 
+2022-02-11 10:17:37,857 root - DEBUG :: 2021-02-09 06:02:29,Direct_test_Services_QuoteRequest,200,OK 
+2022-02-11 10:17:37,857 root - DEBUG :: 2021-02-09 06:02:30,Internal_Quote_Travel,200,OK 
+2022-02-11 10:17:37,857 root - DEBUG :: 2021-02-09 06:02:36,Proxy_test_Services_QuoteRequest,200,OK 
+2022-02-11 10:17:37,857 root - DEBUG :: 2021-02-09 06:02:36,Direct_test_Services_QuoteRequest,200,OK 
+2022-02-11 10:17:37,861 root - DEBUG :: 2021-02-09 06:02:36,Internal_Quote_Travel,200,OK 
+2022-02-11 10:17:37,861 root - DEBUG :: 2021-02-09 06:02:42,Proxy_test_Services_QuoteRequest,200,OK 
+2022-02-11 10:17:37,861 root - DEBUG :: 2021-02-09 06:02:42,Direct_test_Services_QuoteRequest,200,OK 
+2022-02-11 10:17:37,861 root - DEBUG :: 2021-02-09 06:02:43,Internal_Quote_Travel,200,OK 
+2022-02-11 10:17:37,861 root - DEBUG :: 2021-02-09 06:01:44,Proxy_WS_PolicyRequest_QuoteRequest,200,OK 
+2022-02-11 10:17:37,862 root - DEBUG :: 2021-02-09 06:02:49,Proxy_test_Services_QuoteRequest,200,OK 
+2022-02-11 10:17:37,862 root - DEBUG :: 2021-02-09 06:02:49,Direct_test_Services_QuoteRequest,200,OK 
+2022-02-11 10:17:37,862 root - DEBUG :: 2021-02-09 06:02:50,Internal_Quote_Travel,200,OK 
+2022-02-11 10:17:37,862 root - DEBUG :: 2021-02-09 06:02:51,Proxy_WS_PolicyRequest_QuoteRequest,200,OK 
+2022-02-11 10:17:37,862 root - DEBUG :: 2021-02-09 06:02:57,Internal_Quote_Travel,200,OK 
+2022-02-11 10:17:37,862 root - DEBUG :: 2021-02-09 06:02:58,Proxy_WS_PolicyRequest_QuoteRequest,200,OK 
+2022-02-11 10:17:37,862 root - DEBUG :: 2021-02-09 06:03:04,Proxy_WS_PolicyRequest_QuoteRequest,200,OK 
+2022-02-11 10:17:37,862 root - DEBUG :: 2021-02-09 06:02:55,Direct_test_Services_QuoteRequest,200,OK 
+2022-02-11 10:17:37,862 root - DEBUG :: End of script 

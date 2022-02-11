@@ -1,0 +1,7 @@
+2022-02-11 10:40:18,717 root - DEBUG :: Given x_val is  :: 8 
+2022-02-11 10:40:18,717 root - DEBUG :: Given y_val is  :: 3 
+2022-02-11 10:40:18,728 root - DEBUG :: depart data is :: 20191225 
+2022-02-11 10:40:18,735 root - DEBUG :: new date after adding days :: 2020-01-02 00:00:00 
+2022-02-11 10:40:18,735 root - DEBUG :: return data is :: 20191227 
+2022-02-11 10:40:18,735 root - DEBUG :: new date after adding days :: 2019-12-30 00:00:00 
+2022-02-11 10:40:18,736 root - DEBUG :: End of script 
