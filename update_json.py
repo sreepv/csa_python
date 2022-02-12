@@ -54,6 +54,6 @@ if __name__ == "__main__":
     if updated_data:
         log.debug(f"updated json is :: {updated_data}")
     else:
-        log.debug("End of script")
+        log.debug(f"{remove_param} not found in given json data")
     write_data(updated_data)
-  
+    log.debug("End of script")
